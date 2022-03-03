@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/rodasistemas/expo-template/static/js/app.a0663967.chunk.js",
-    "app.js.map": "/rodasistemas/expo-template/static/js/app.a0663967.chunk.js.map",
-    "runtime~app.js": "/rodasistemas/expo-template/static/js/runtime~app.fe321227.js",
-    "runtime~app.js.map": "/rodasistemas/expo-template/static/js/runtime~app.fe321227.js.map",
-    "static/js/2.18428f5f.chunk.js": "/rodasistemas/expo-template/static/js/2.18428f5f.chunk.js",
-    "static/js/2.18428f5f.chunk.js.map": "/rodasistemas/expo-template/static/js/2.18428f5f.chunk.js.map",
-    "favicon-16.png": "/rodasistemas/expo-template/favicon-16.png",
-    "favicon-32.png": "/rodasistemas/expo-template/favicon-32.png",
-    "favicon.ico": "/rodasistemas/expo-template/favicon.ico",
-    "index.html": "/rodasistemas/expo-template/index.html",
-    "manifest.json": "/rodasistemas/expo-template/manifest.json",
-    "serve.json": "/rodasistemas/expo-template/serve.json",
-    "static/js/2.18428f5f.chunk.js.LICENSE.txt": "/rodasistemas/expo-template/static/js/2.18428f5f.chunk.js.LICENSE.txt"
+    "app.js": "/expo-template/static/js/app.a0663967.chunk.js",
+    "app.js.map": "/expo-template/static/js/app.a0663967.chunk.js.map",
+    "runtime~app.js": "/expo-template/static/js/runtime~app.8265b5e0.js",
+    "runtime~app.js.map": "/expo-template/static/js/runtime~app.8265b5e0.js.map",
+    "static/js/2.c391c6da.chunk.js": "/expo-template/static/js/2.c391c6da.chunk.js",
+    "static/js/2.c391c6da.chunk.js.map": "/expo-template/static/js/2.c391c6da.chunk.js.map",
+    "favicon-16.png": "/expo-template/favicon-16.png",
+    "favicon-32.png": "/expo-template/favicon-32.png",
+    "favicon.ico": "/expo-template/favicon.ico",
+    "index.html": "/expo-template/index.html",
+    "manifest.json": "/expo-template/manifest.json",
+    "serve.json": "/expo-template/serve.json",
+    "static/js/2.c391c6da.chunk.js.LICENSE.txt": "/expo-template/static/js/2.c391c6da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.fe321227.js",
-    "static/js/2.18428f5f.chunk.js",
+    "static/js/runtime~app.8265b5e0.js",
+    "static/js/2.c391c6da.chunk.js",
     "static/js/app.a0663967.chunk.js"
   ]
 }
